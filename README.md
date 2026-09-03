@@ -1,4 +1,4 @@
-# Singapore Bus Identifier (TypeScript)
+# Bus Identifier (TypeScript)
 
 A TypeScript/Node.js pipeline that:
 
