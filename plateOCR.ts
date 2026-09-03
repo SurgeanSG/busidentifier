@@ -12,7 +12,10 @@ function cleanPlate(text: string): string | null {
      * 1-3 letters, digits, then a final letter.
      *
      * This is intentionally permissive because OCR
-     * can make mistakes.
+     * can make mistakes. 
+     *
+     * This is for Singapore buses only.
+     * If you want lets say London then change the pattern in lines 22-23.
      */
 
     const patterns = [
